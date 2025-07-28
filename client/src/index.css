@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+
+/* Ensure full height for proper centering */
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #fdfcfe; /* optional subtle background fallback */
+}
+
+/* Optional: you can style scrollbars for better UI (optional) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+
+/* Optional custom container (if needed globally) */
+.container {
+  @apply mx-auto px-4;
+}

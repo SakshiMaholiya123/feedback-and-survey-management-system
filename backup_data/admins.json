@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "686fcc1ec5fdb5ca43a2f394"
+  },
+  "name": "Updated Admin",
+  "email": "updatedadmin@example.com",
+  "password": "$2b$10$uJWPIVF02JtXVJOpWGO.Zuggm/eFGFjbSxD6TY42B4grYKdDbIZKy",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-07-10T14:20:14.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-10T14:33:25.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687329466e448a7454193f19"
+  },
+  "name": "Admin One",
+  "email": "admin1@example.com",
+  "password": "$2b$10$jY1gXK6pJXHNCocO0KT4tOr9ZysDa4fllibvyWhpD3moxufLrp4.C",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-07-13T03:34:30.579Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T03:34:30.579Z"
+  },
+  "__v": 0
+}]

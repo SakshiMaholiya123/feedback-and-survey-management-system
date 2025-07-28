@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "687118c6c88cf204d67cfc2a"
+  },
+  "title": "Customer Feedback Form",
+  "description": "",
+  "category": "Product",
+  "createdBy": {
+    "$oid": "68711834c88cf204d67cfc25"
+  },
+  "questions": [
+    {
+      "text": "How would you rate our product?",
+      "type": "text",
+      "options": [],
+      "_id": {
+        "$oid": "687118c6c88cf204d67cfc2b"
+      }
+    },
+    {
+      "text": "Any suggestions for improvement?",
+      "type": "text",
+      "options": [],
+      "_id": {
+        "$oid": "687118c6c88cf204d67cfc2c"
+      }
+    }
+  ],
+  "expiresAt": {
+    "$date": "2025-12-31T23:59:59.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-11T13:59:34.673Z"
+  },
+  "__v": 0
+}]

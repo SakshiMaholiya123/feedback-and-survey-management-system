@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "68711a57c88cf204d67cfc30"
+  },
+  "surveyId": {
+    "$oid": "687118c6c88cf204d67cfc2a"
+  },
+  "userId": {
+    "$oid": "686ce993997bac41b33b7622"
+  },
+  "responses": {
+    "question1Id": "Very good",
+    "question2Id": "Yes"
+  },
+  "status": "Reviewed",
+  "submittedAt": {
+    "$date": "2025-07-11T14:06:15.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873565c6e448a7454193f30"
+  },
+  "surveyId": {
+    "$oid": "687118c6c88cf204d67cfc2a"
+  },
+  "userId": {
+    "$oid": "686ce993997bac41b33b7622"
+  },
+  "responses": {
+    "question1Id": "Very good",
+    "question2Id": "Yes"
+  },
+  "status": "Pending",
+  "submittedAt": {
+    "$date": "2025-07-13T06:46:52.234Z"
+  },
+  "__v": 0
+}]
